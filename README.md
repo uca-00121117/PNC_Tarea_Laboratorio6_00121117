@@ -1,4 +1,15 @@
 # PNC_Tarea_Laboratorio6_00121117
+# Imagenes
+## Inicio: http://localhost:8080/inicio
+![](https://github.com/00121117-Archivos/PNC-Archivos/blob/master/Labo6_2/inicio.png)
+![](https://github.com/00121117-Archivos/PNC-Archivos/blob/master/Labo6_2/inicio2.png)
+![](https://github.com/00121117-Archivos/PNC-Archivos/blob/master/Labo6_2/exito.png)
+
+## Listado: http://localhost:8080/lista
+![](https://github.com/00121117-Archivos/PNC-Archivos/blob/master/Labo6_2/listado.png)
+
+# Indicaciones
+![](https://github.com/00121117-Archivos/PNC-Archivos/blob/master/Labo6_2/ejercicio.jpg)
 
 
 ## Referencias
